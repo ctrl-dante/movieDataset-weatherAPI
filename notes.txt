@@ -1,0 +1,9 @@
+Project notes
+++++++++++++++++++++++++++
+
+to setup environment:
+
+ -pip install pandas numpy jupyter
+ -pip freeze > requriements.txt // to have all libraries
+
+dataframes techniques in python

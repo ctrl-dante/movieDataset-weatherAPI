@@ -1,0 +1,10 @@
+venv/
+
+data/
+
+output/
+
+.ipynb_checkpoints #jupyter cache
+
+__pycache__/   #system files
+.DS_Store
