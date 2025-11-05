@@ -3,7 +3,21 @@ Project notes
 
 to setup environment:
 
- -pip install pandas numpy jupyter
- -pip freeze > requriements.txt // to have all libraries
+ - pip install pandas numpy jupyter
+ - pip freeze > requriements.txt // to have all libraries and to run it easily
 
 dataframes techniques in python
+
+how to use jupyter:      https://www.geeksforgeeks.org/machine-learning/how-to-use-jupyter-notebook-an-ultimate-guide/
+
+learn numpy //   https://www.youtube.com/watch?v=VXU4LSAQDSc
+
+learn pandas //    https://www.youtube.com/watch?v=VXtjG_GzO7Q
+
+some quick tips for pandas // https://medium.com/@vipinnation/mastering-pandas-dataframe-a-comprehensive-guide-e3f2a004fefc
+
+series and dataframe
+
+data droping // https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.drop.html
+
+pandas is micorsoft exel on steroids
