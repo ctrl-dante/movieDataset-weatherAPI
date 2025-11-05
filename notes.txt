@@ -20,4 +20,8 @@ series and dataframe
 
 data droping // https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.drop.html
 
+request for python //          https://requests.readthedocs.io/en/latest/
+
 pandas is micorsoft exel on steroids
+
+to get city api: https://openweathermap.org/api/geocoding-api
