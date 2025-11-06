@@ -71,8 +71,6 @@ for index, row in dfCities.iterrows():
 
     weatherInfo = getWeather(lat, lon, APIkey)
 
-    weatherInfo['City'] = row['city']
-
     successRequests.append(weatherInfo)
 
 df = pd.DataFrame(successRequests)
