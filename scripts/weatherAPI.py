@@ -76,10 +76,8 @@ for index, row in dfCities.iterrows():
 df = pd.DataFrame(successRequests)
 dfErrors = pd.DataFrame(failedRequests)
 
-print(df)
-print(dfErrors)
 
-df.to_csv(f"../output/apiRequestFinal.csv",index=False)
-dfErrors.to_csv(f"../output/errorRequestsFinal.csv",index=False)
+df.to_csv(f"../output/apiRequests.csv",index=False)
+dfErrors.to_csv(f"../output/errorRequests.csv",index=False)
 
 

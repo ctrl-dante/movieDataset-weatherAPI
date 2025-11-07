@@ -86,7 +86,7 @@ unique_directors = df['DIRECTOR'].dropna().unique()
 
 DimDirector = pd.DataFrame(unique_directors, columns=['DimDirector'])
 
-DimCompan.to_csv(f"../output/uniqueCompany_{timeStamp}.csv",index=False)
-DimDirector.to_csv(f"../output/uniqueDirector_{timeStamp}.csv",index=False)
-df.to_csv(f"../output/cleanedData_{timeStamp}.csv",index=False)
-df.to_excel(f"../output/cleanedData_{timeStamp}.xlsx",index=False)
+DimCompan.to_csv(f"../output/uniqueCompany.csv",index=False)
+DimDirector.to_csv(f"../output/uniqueDirector.csv",index=False)
+df.to_csv(f"../output/cleanedData.csv",index=False)
+df.to_excel(f"../output/cleanedData.xlsx",index=False)

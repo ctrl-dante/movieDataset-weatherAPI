@@ -3,7 +3,7 @@ Project notes
 
 to setup environment:
 
- - pip install pandas numpy jupyter
+ - pip install --user networkx matplotlib numpy
  - pip freeze > requriements.txt // to have all libraries and to run it easily
 
 dataframes techniques in python
