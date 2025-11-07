@@ -1,0 +1,14 @@
+id,city,latitude,longitude,country,description,temp,temp_min,temp_max,feels_like,humidity,wind_speed,City
+785842,Skopje,41.9961,21.4316,MK,broken clouds,12.9,12.9,12.9,12.23,76,0.51,
+729519,Ladzhene,42.0,24.0,BG,overcast clouds,8.13,8.13,8.13,7.5,81,1.51,
+749841,Çamlıhemşin,41.0,41.0,TR,overcast clouds,8.78,8.78,8.78,7.91,66,1.85,
+1861060,Japan,35.687,139.7495,JP,clear sky,15.05,13.75,15.89,14.15,59,7.72,Tokyo
+1631845,Pecenongan,-6.175,106.8275,ID,scattered clouds,26.88,25.59,27.13,29.48,80,5.14,Jakarta
+1261481,New Delhi,28.61,77.23,IN,clear sky,24.98,24.98,24.98,23.87,13,3.09,Delhi
+1809858,Guangzhou,23.13,113.26,CN,overcast clouds,23.92,23.92,23.92,24.22,71,2.14,Guangzhou
+8131499,Konkan Division,19.0818,72.8795,IN,haze,28.01,28.01,28.01,30.55,69,2.57,Mumbai
+1688216,Santa Cruz,14.6009,120.9838,PH,scattered clouds,28.46,28.34,28.95,34.23,85,2.49,Manila
+1796231,Shanghai Municipality,31.2286,121.4747,CN,light rain,18.88,18.88,18.88,18.96,82,2.0,Shanghai
+3458611,Liberdade,-23.5504,-46.6339,BR,overcast clouds,19.03,18.52,20.15,18.82,70,5.66,São Paulo
+1835848,Seoul,37.5667,126.9833,KR,mist,7.77,7.77,7.77,7.77,100,1.03,Seoul
+3530597,Mexico City,19.4333,-99.1333,MX,clear sky,11.94,11.94,11.94,10.6,54,1.54,Mexico City

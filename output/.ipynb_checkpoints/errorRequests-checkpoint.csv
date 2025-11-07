@@ -1,0 +1,4 @@
+Error Code,Error Message,latitute,longitude
+400,wrong latitude,999,53
+400,wrong latitude,999,999
+400,wrong longitude,41,-500

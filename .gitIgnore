@@ -2,10 +2,7 @@ venv/
 
 data/
 
-output/
-
 notes.txt
-
 
 .ipynb_checkpoints #jupyter cache
 

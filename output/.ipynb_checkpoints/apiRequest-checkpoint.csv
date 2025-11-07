@@ -1,0 +1,4 @@
+id,city,latitude,longtitude,country,description,temp,temp_min,temp_max,feels_like,humidity,wind_speed
+785842,Skopje,42,21.4333,MK,broken clouds,286.97,286.97,286.97,286.29,72,0.51
+729519,Ladzhene,42,24.0,BG,overcast clouds,281.6,281.6,281.6,280.97,84,1.56
+749841,Çamlıhemşin,41,41.0,TR,overcast clouds,291.54,291.54,291.54,291.37,74,1.31
